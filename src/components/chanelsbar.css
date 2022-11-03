@@ -1,0 +1,6 @@
+.chanels-bar{
+    width: 15vw;
+    height: 100vh;
+    background: rgb(40, 40, 40);
+    z-index: 1;
+}
